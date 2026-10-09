@@ -18,7 +18,7 @@
 * Microcontrollers principles, architectures; some other combinable electronic modules.
 
 ### 📫 How To Reach Me
-* **LinkedIn:** https://www.linkedin.com/in/melih-uçar-530803339/
+* **LinkedIn:** www.linkedin.com/in/melihucarcse
 * **Email:** melihucar1875@gmail.com
 
 ---
